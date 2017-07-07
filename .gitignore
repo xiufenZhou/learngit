@@ -1,0 +1,4 @@
+node_modules/
+Server/a.js
+public/*.js
+.idea/
